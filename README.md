@@ -5,14 +5,30 @@ It allows users to browse albums, view artist cards, and play songs — all dire
 
 ---
 
+## 🚀 Live Demo
+
+Experience Musify directly in your browser.
+
+👉 **Click here to open Musify**
+
+[🎵 Open Musify Web Player](https://musify-rho-hazel.vercel.app/)
+
+---
+
+## 🎧 Musify Interface Preview
+
+![Musify UI](img/preview.png)
+
+---
+
 ## 🚀 Features
 
-✨ Clean music player interface
-🎵 Album-based song organization
-⏯️ Play / Pause / Next / Previous controls
-📊 Seekbar with real-time progress
-🖼️ Album cover display
-📂 Folder-based music loading
+✨ Clean music player interface  
+🎵 Album-based song organization  
+⏯️ Play / Pause / Next / Previous controls  
+📊 Seekbar with real-time progress  
+🖼️ Album cover display  
+📂 Folder-based music loading  
 ⚡ Fully client-side (no backend required)
 
 ---
@@ -27,23 +43,19 @@ Simply create a new folder and Musify will load it as a new album.
 
 ---
 
-## 📁 How Albums Work
-
-Each album is just a folder inside the `songs/` directory.
-
-Example:
+## 📁 Example Folder Structure
 
 ```
 songs/
- ├── seedhe_maut/
- │    ├── cover.jpg
- │    ├── info.json
- │    ├── song1.mp3
- │    └── song2.mp3
- ├── arijit_singh/
- │    ├── cover.jpg
- │    ├── info.json
- │    └── songs...
+├── seedhe_maut/
+│   ├── cover.jpg
+│   ├── info.json
+│   ├── song1.mp3
+│   └── song2.mp3
+├── arijit_singh/
+│   ├── cover.jpg
+│   ├── info.json
+│   └── songs...
 ```
 
 ---
@@ -70,9 +82,9 @@ Actual songs to be played
 
 2. Add:
 
-   * `cover.jpg`
-   * `info.json`
-   * Your `.mp3` files
+- `cover.jpg`
+- `info.json`
+- Your `.mp3` files
 
 3. Add the folder name in the code (if required)
 
@@ -88,12 +100,12 @@ Musify is designed to be simple and extensible.
 
 You can:
 
-* Add new artist folders
-* Improve UI/UX
-* Optimize performance
-* Add new player features
-* Fix bugs
-* Customize branding
+- Add new artist folders
+- Improve UI/UX
+- Optimize performance
+- Add new player features
+- Fix bugs
+- Customize branding
 
 No complex setup needed — just basic web knowledge.
 
@@ -101,9 +113,9 @@ No complex setup needed — just basic web knowledge.
 
 ## 🛠️ Tech Stack
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 No frameworks. No backend. Pure frontend project.
 
@@ -112,15 +124,13 @@ No frameworks. No backend. Pure frontend project.
 ## 💻 How to Run Locally
 
 Clone the repository:
-
-```
 git clone https://github.com/sagarjain2205/Musify.git
-```
+
 
 Open the project folder and run using:
 
-* Live Server (recommended)
-* Or open `index.html` directly in a browser
+- Live Server (recommended)
+- Or open `index.html` directly in a browser
 
 ---
 
@@ -128,20 +138,20 @@ Open the project folder and run using:
 
 This project was created as a learning project to demonstrate:
 
-* DOM manipulation
-* Dynamic content loading
-* Media handling in browsers
-* Scalable folder-based design
-* Building real-world UI without frameworks
+- DOM manipulation
+- Dynamic content loading
+- Media handling in browsers
+- Scalable folder-based design
+- Building real-world UI without frameworks
 
 ---
 
 ## 📌 Future Improvements
 
-* Search functionality
-* Shuffle / Repeat modes
-* Mobile optimization
-* Backend integration
+- Search functionality
+- Shuffle / Repeat modes
+- Mobile optimization
+- Backend integration
 
 ---
 
@@ -166,7 +176,7 @@ If you like this project, consider giving it a star ⭐ on GitHub.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Sagar
+Made with ❤️ by **Sagar**
 
 ---
 
